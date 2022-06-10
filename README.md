@@ -7,6 +7,7 @@
 * [Setup](#Setup)
 * [Features](#Features)
 * [Status](#Status)
+* [Inspiration](#Inspiration)
 
 ## General info
 Simple map using Leaflet library that allows putting various markers (only in the code) and zones with custom labels. It was made for educational purpose.
@@ -17,7 +18,7 @@ Simple map using Leaflet library that allows putting various markers (only in th
 ## Technologies
 * HTML 5
 * JavaScript
-* Leaflet library
+* Leaflet 1.8.0
 
 ## Setup
 As it is a HTML document all you need is a default text editor like notepad and an internet browser
@@ -30,3 +31,6 @@ As it is a HTML document all you need is a default text editor like notepad and 
 
 ## Status
 As of today the project is complete
+
+## Inspiration
+Overall the code is just an edited template from the official site of Leaflet developers
