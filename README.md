@@ -12,7 +12,7 @@
 Simple map using Leaflet library that allows putting various markers (only in the code) and zones with custom labels. It was made for educational purpose.
 
 ## Images
-![Image](./Pictures/2.PNG)
+![Image](./Pictures/1.PNG)
 
 ## Technologies
 * HTML 5
